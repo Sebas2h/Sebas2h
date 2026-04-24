@@ -1,17 +1,17 @@
-# 👋 Hola, soy Sebastián Vaca
+# 👋 Hi, I'm Sebastián Vaca
 
-🎓 Estudiante de Ingeniería en Software  
-💻 Interesado en el desarrollo de sistemas y soluciones tecnológicas  
-
----
-
-## 🚀 Sobre mí
-Soy estudiante de Ingeniería en Software con conocimientos en programación, bases de datos y redes.  
-Me enfoco en el aprendizaje continuo y en aplicar mis conocimientos en proyectos prácticos.
+🎓 Software Engineering Student  
+💻 Interested in system development and technological solutions  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 About Me
+I am a Software Engineering student with knowledge in programming, databases, and networking.  
+I focus on continuous learning and applying my knowledge in practical projects.
+
+---
+
+## 🛠️ Technologies & Tools
 - 💻 Java
 - 🗄️ SQL (MySQL, Oracle)
 - 🌐 HTML, CSS
@@ -20,18 +20,18 @@ Me enfoco en el aprendizaje continuo y en aplicar mis conocimientos en proyectos
 
 ---
 
-## 📂 Proyectos
-En este repositorio encontrarás proyectos académicos relacionados con:
-- Desarrollo de software
-- Bases de datos
-- Redes de computadoras
+## 📂 Projects
+In this repository you will find academic projects related to:
+- Software development
+- Databases
+- Computer networks
 
 ---
 
-## 🎯 Objetivo
-Seguir mejorando mis habilidades como desarrollador y crear soluciones útiles en el área tecnológica.
+## 🎯 Goal
+To keep improving my skills as a developer and build useful solutions in the tech field.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 - GitHub: https://github.com/Sebas2h
