@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Sebastián Vaca
 
-<!--
-**Sebas2h/Sebas2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Software  
+💻 Interesado en el desarrollo de sistemas y soluciones tecnológicas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy estudiante de Ingeniería en Software con conocimientos en programación, bases de datos y redes.  
+Me enfoco en el aprendizaje continuo y en aplicar mis conocimientos en proyectos prácticos.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- 💻 Java
+- 🗄️ SQL (MySQL, Oracle)
+- 🌐 HTML, CSS
+- 🔧 Git & GitHub
+- 🖧 Cisco Packet Tracer
+
+---
+
+## 📂 Proyectos
+En este repositorio encontrarás proyectos académicos relacionados con:
+- Desarrollo de software
+- Bases de datos
+- Redes de computadoras
+
+---
+
+## 🎯 Objetivo
+Seguir mejorando mis habilidades como desarrollador y crear soluciones útiles en el área tecnológica.
+
+---
+
+## 📫 Contacto
+- GitHub: https://github.com/Sebas2h
